@@ -1,2 +1,2 @@
 # Image-Analysis
-pythonで作成した画像認識プログラム
+pythonで作成した画像解析プログラム
